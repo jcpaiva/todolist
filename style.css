@@ -1,18 +1,15 @@
-html {
+/* html {
   box-sizing: border-box;
-}
+} */
 
 body {
   color: whitesmoke;
   font-family: "Kufam", cursive;
   margin: 0;
-  min-height: 100vh;
-  min-width: 100vh;
+  /*   min-height: 100vh;
+  min-width: 100vh; */
   align-items: center;
   background: url(abstract.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 
